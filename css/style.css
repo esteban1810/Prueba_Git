@@ -16,4 +16,16 @@ a {
     text-decoration: none;
     display: block;
     color: white;
+
+}
+h2 {
+    color: yellow;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h4 {
+    color: brown;
 }
